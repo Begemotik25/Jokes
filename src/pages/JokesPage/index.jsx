@@ -55,7 +55,6 @@ const JokesPage = () => {
               >
                 <option value=""></option>
                 {categories.map((value) => {
-                  console.log(value);
                   return (
                     <option value={value} key={value}>
                       {value}

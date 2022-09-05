@@ -1,7 +1,7 @@
 {
   "name": "jokes-api",
   "version": "0.1.0",
-  "homepage": "https://Begemotik25.github.io/jokes",
+  "homepage": "https://begemotik25.github.io/Jokes/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

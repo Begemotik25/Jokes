@@ -1,7 +1,5 @@
 # https://begemotik25.github.io/Jokes/
 
- Alina, [05.09.2022 23:47]
-[ File : image_2022-09-05_23-47-13.png ]
 
-Alina, [05.09.2022 23:47]
-[ File : image_2022-09-05_23-47-45.png ]
+![1](https://user-images.githubusercontent.com/56972817/188512484-455434dc-f797-4746-9d8b-b3c63c11aaf1.png)
+![2](https://user-images.githubusercontent.com/56972817/188512486-a1c8ac32-0788-4214-95eb-92ef7cb1a817.png)

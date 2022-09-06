@@ -1,4 +1,4 @@
-# https://begemotik25.github.io/Jokes/
+# https://begemotik25.github.io/Jokes-React/
 
 
 ![1](https://user-images.githubusercontent.com/56972817/188512484-455434dc-f797-4746-9d8b-b3c63c11aaf1.png)

@@ -8,7 +8,6 @@ const service = {
     }
   },
   async getRandomJokeByCategory(category) {
-    console.log("categories", category);
     try {
       const responce = await fetch(
         `https://api.chucknorris.io/jokes/random?category=${category}`
